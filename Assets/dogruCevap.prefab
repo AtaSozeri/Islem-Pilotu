@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6671302688229628920
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6671302688229628921}
+  - component: {fileID: 6671302688229628922}
+  - component: {fileID: 6671302688229628923}
+  m_Layer: 0
+  m_Name: dogruCevap
+  m_TagString: dogruCevap
+  m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6671302688229628921
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6671302688229628920}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &6671302688229628922
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6671302688229628920}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!114 &6671302688229628923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6671302688229628920}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 738118cc8c269654a94a78d09f800b72, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sifir: {fileID: 5361914671792036568, guid: e38fb02ae736e9b43bac4dae60eeac32, type: 3}
+  bir: {fileID: 8559105009215990280, guid: ca5da3d1b91b9cf41a3e88563f3e0e9b, type: 3}
+  iki: {fileID: 1557376398904162746, guid: a0da8b4e59976d745a95016234c717c7, type: 3}
+  uc: {fileID: 101698219555187160, guid: 65c9d7735c94b9a44b6774a1ea22cbd0, type: 3}
+  dort: {fileID: 7380824150199481100, guid: 0d5102f488228b741be375665e811bfc, type: 3}
+  bes: {fileID: 3610492393780594121, guid: 99be518c66f7f15428fa32d41bb02327, type: 3}
+  alti: {fileID: 1624214764336426209, guid: fcbf934d5d91ea344961a8aa04f5376f, type: 3}
+  yedi: {fileID: 5964766389267901249, guid: 1516917cf4f1a0d4e8b0a4ef3396442d, type: 3}
+  sekiz: {fileID: 5415056338634312933, guid: 9d5b273f5dd04f1418400edf594486aa, type: 3}
+  dokuz: {fileID: 1003678097205363129, guid: 951835c0a5acc2549bca12f57b8e95ac, type: 3}
+  on: {fileID: 948537798033769423, guid: cb5573decfaa9ee4fb2cb56b51247981, type: 3}
+  onbir: {fileID: 5529493840821058503, guid: 51883874958b95d4bb5572663333f8be, type: 3}
+  oniki: {fileID: 7575792867173344880, guid: c906301b0104891498f7cfba24237d07, type: 3}
+  onuc: {fileID: 5895782879871791547, guid: efc364f2d6a8ec94290c5afe0b0eb972, type: 3}
+  ondort: {fileID: 1600289321457635234, guid: 0a8a6468c64d60a4398e23df4eed2c31, type: 3}
+  onbes: {fileID: 8167991999303015266, guid: 9e5a210657402e24bb3a25ad6d01d5ee, type: 3}
+  onalti: {fileID: 7712323705223085487, guid: 2f1820e72737dbb4b8a15fa4dc710c9d, type: 3}
+  onyedi: {fileID: 2618681175159366797, guid: e33fe91fbcbf79b47b859811e05c4916, type: 3}
+  onsekiz: {fileID: 7689869157464156199, guid: 13b5d59ec92f6fc4da224c0c2cd9f3ef, type: 3}
+  ondokuz: {fileID: 6422504408634526858, guid: 1a77657f86512184cbd2aef5a89d3b1c, type: 3}
+  yirmi: {fileID: 2807177826536168268, guid: 299b66c94a5a8c546b61c1a2c70d5a63, type: 3}
+  yirmibir: {fileID: 441732859672939946, guid: e9cf5af008345a94086021b6ca22f43e, type: 3}
+  yirmiiki: {fileID: 973817317816390481, guid: 21090e3b98cb906408059234b69074fc, type: 3}
+  yirmiuc: {fileID: 5195750539059911127, guid: 9d18d09d23f0d364c9ab4a0ef48092aa, type: 3}
+  yirmidort: {fileID: 4608727927645766960, guid: 1f8d42d24c7f7e440ae5a01a28751bb1,
+    type: 3}
+  yirmibes: {fileID: 9079759200790199883, guid: af5f784ac43962f43944112d628b6920,
+    type: 3}
+  yirmialti: {fileID: 6314898201987232357, guid: d3203913d02e46a47a6a07fb61132e76,
+    type: 3}
+  yirmiyedi: {fileID: 5474700084373163446, guid: ec32f758af9e3d9499783132ef6e109a,
+    type: 3}
+  yirmisekiz: {fileID: 520835735540398766, guid: f27c7456961fb4f498629fd3e82dc346,
+    type: 3}
+  yirmidokuz: {fileID: 1994517478486105452, guid: cb8e45c280bb0d44eb499675147c9298,
+    type: 3}
+  otuz: {fileID: 3854963604133187422, guid: 5b69d3503e2b87c428b9ffa3ab520412, type: 3}
+  otuzbir: {fileID: 5284019171412617344, guid: 1fbe11d392d353b43b2410f0caf3c779, type: 3}
+  otuziki: {fileID: 4141924213196581892, guid: 2436d2da7501f8c40a922588e0cb329d, type: 3}
+  otuzuc: {fileID: 2512877525904941360, guid: 8b51d00cbafb78342be31f7cd39a3d4d, type: 3}
+  otuzdort: {fileID: 6141763637512761295, guid: 3739b546825251e4f80e60f427c434d6,
+    type: 3}
+  otuzbes: {fileID: 6606799663904103166, guid: 6900365c10b4b904b8854d65472614c3, type: 3}
+  otuzalti: {fileID: 7493556000879254612, guid: 53032d2e8731d6d4f974ae7707a28d9e,
+    type: 3}
+  otuzyedi: {fileID: 8316997342728580302, guid: 930c5a6b41efd6543b61560d411b9456,
+    type: 3}
+  otuzsekiz: {fileID: 5421618473660080839, guid: f35c904b10a88d64d80ba25730c3eb75,
+    type: 3}
+  otuzdokuz: {fileID: 4327393384162245534, guid: 96f83b65eec87b542bee95d50d722381,
+    type: 3}
+  kirk: {fileID: 5431066128436281052, guid: 31127414889a73844a340994fbe5b9fc, type: 3}
+  kirkbir: {fileID: 378053794756281808, guid: 8975c90a29fd0d14eb339aed9ba6c8e7, type: 3}
+  kirkiki: {fileID: 3362151206750722527, guid: 8d6ae5e68727f754bb5149ee036bc0da, type: 3}
+  kirkuc: {fileID: 1224146439646043006, guid: 59f59fd74b5e2ab49b83c868714b2d6c, type: 3}
+  kirkdort: {fileID: 5655633611204451156, guid: a23ca16551b5a6042953bd349a388c60,
+    type: 3}
+  kirkbes: {fileID: 6638011418127640213, guid: 0527cee7361530b44959c93910748fe6, type: 3}
+  kirkalti: {fileID: 6344082555913760679, guid: b60b45078bf910a44b73406a9b6cacc9,
+    type: 3}
+  kirkyedi: {fileID: 3451259233390885412, guid: d4e9b297c4a6fea4d9364f6a01bba915,
+    type: 3}
+  kirksekiz: {fileID: 8680646960938099803, guid: 4e3e3d95a6057c8419b6acceab299085,
+    type: 3}
+  kirkdokuz: {fileID: 418043104054319184, guid: f55cf80ebb8a7c74eb38610f77a4069b,
+    type: 3}
+  elli: {fileID: 6678733948284946953, guid: be2cc6cee0f2f984692736ff014dd2b8, type: 3}
+  ellibir: {fileID: 7303207841591554613, guid: 9341db821de9aec4494cf37cfe38cf69, type: 3}
+  elliiki: {fileID: 7092815121565010046, guid: d354623604c3e5a4bb60ef134a574c0a, type: 3}
+  elliuc: {fileID: 6995280655297609489, guid: 169ce82323c2ded4494eb1d599a4f00d, type: 3}
+  ellidort: {fileID: 1167144532919654310, guid: 08743603d3e18f6449c39be16cf6b574,
+    type: 3}
+  ellibes: {fileID: 7435473109809869172, guid: fbd0296191741754db4383b02a23e2cd, type: 3}
+  ellialti: {fileID: 2529657835130055726, guid: 01d8667cbb893d645b48d1129ef39cbb,
+    type: 3}
+  elliyedi: {fileID: 5947813264680963615, guid: 64c7d1aefc1df7c48b7a321598b9e2ae,
+    type: 3}
+  ellisekiz: {fileID: 6324271530917707434, guid: fd8f24f5ac653c544b4ae247bfc67271,
+    type: 3}
+  ellidokuz: {fileID: 9026654291246537740, guid: 67357f767f56628419b7d84daa017466,
+    type: 3}
+  atmis: {fileID: 6432949588186340721, guid: e1c472a6decb966419ec97df2ee98db3, type: 3}
+  atmisbir: {fileID: 521204474955920272, guid: ed45cc8776394bf4294fcaa9b3e1c3cc, type: 3}
+  atmisiki: {fileID: 8174240599829697561, guid: b34ba3e45b34e044b8ec2aa9fc695c6d,
+    type: 3}
+  atmisuc: {fileID: 3440670115647559174, guid: 0b8bc9b5e013de448a6864b04abb9b11, type: 3}
+  atmisdort: {fileID: 5333125904527712750, guid: 465c2efc2facb6e40bda0e4082fb54b3,
+    type: 3}
+  atmisbes: {fileID: 4275812535934033247, guid: 36051f72b3e89fa4c8e1000f2490f13e,
+    type: 3}
+  atmisalti: {fileID: 9179217988404600253, guid: b821e141df4cfd24bb8ee20ffaebf90a,
+    type: 3}
+  atmisyedi: {fileID: 8572874538820637606, guid: 4b8c4bfd147a2b747ba4325f65a27ec2,
+    type: 3}
+  atmissekiz: {fileID: 8782750913037617987, guid: 924646a393527304eaa5d55d88700f0f,
+    type: 3}
+  atmisdokuz: {fileID: 7021167700667342782, guid: 1f3ac09af1e0a9244a3f6512bb1bbf0c,
+    type: 3}
+  yetmis: {fileID: 3438210224183555937, guid: e46c3ef150ff19f4d921bcf96327b3f4, type: 3}
+  yetmisbir: {fileID: 2025483177741321495, guid: 0f1f364560daed7408073968bcbc5f0e,
+    type: 3}
+  yetmisiki: {fileID: 5001418447267863442, guid: b4d639ee6aaabd5479869badca6cc628,
+    type: 3}
+  yetmisuc: {fileID: 2556780884088962576, guid: 231aad6949aca5c448ead43629eef2da,
+    type: 3}
+  yetmisdort: {fileID: 4480213829871081549, guid: 84a92dafeed31fd41ac3896c634d6bf9,
+    type: 3}
+  yetmisbes: {fileID: 5050930929652775531, guid: 70fddca2fdeeb1943937117dcacc926f,
+    type: 3}
+  yetmisalti: {fileID: 377540995926766484, guid: 564f9383d9c09ba4ab17ba2e1c6db57f,
+    type: 3}
+  yetmisyedi: {fileID: 4976996157127803666, guid: 622d5737eb608564f91fffc91f3522fb,
+    type: 3}
+  yetmissekiz: {fileID: 5319135246316066916, guid: a069addf9f031e243a421e401dfb063b,
+    type: 3}
+  yetmisdokuz: {fileID: 1053486623402724761, guid: 0778ff1d11591854e81ebcb933903c14,
+    type: 3}
+  seksen: {fileID: 7115373480083342386, guid: 6c559959297868043a9840c6deabf886, type: 3}
+  seksenbir: {fileID: 79381904584225702, guid: f371c4b0d24a60e43a47deaded6b391d, type: 3}
+  sekseniki: {fileID: 8274279515290265247, guid: 257ee6b15e1b4734f99245d3a3fca842,
+    type: 3}
+  seksenuc: {fileID: 3138819597779510297, guid: e7395b5261c61554dbc233577a30433e,
+    type: 3}
+  seksendort: {fileID: 398289165717402493, guid: 2ec131ee79420974093964008b3a11d2,
+    type: 3}
+  seksenbes: {fileID: 4618720031756324496, guid: e0e0548ac11122b4fa5c01d6f2e904a8,
+    type: 3}
+  seksenalti: {fileID: 1667076725869537000, guid: 539940afa8bd5384ea62415155dec350,
+    type: 3}
+  seksenyedi: {fileID: 536240762333509159, guid: 1cdb874d315d38f479b24a9240aecec5,
+    type: 3}
+  seksensekiz: {fileID: 4102660552342832462, guid: b2b67984acdadf84383c0b59ccc53cd6,
+    type: 3}
+  seksendokuz: {fileID: 4076063079484475875, guid: 59d0fd6f265f1b94a8bde6d46beeb390,
+    type: 3}
+  doksan: {fileID: 5696843301961024153, guid: abef6ce5589372e4abf9f2e0b8d6078f, type: 3}
+  doksanbir: {fileID: 8971930252221511446, guid: 35cf5906dcbab4d4b87de96b6d0ab86c,
+    type: 3}
+  doksaniki: {fileID: 3026382272276210566, guid: 25c15b4436d600e4b9b9d5eefb94451d,
+    type: 3}
+  doksanuc: {fileID: 7046038246802392111, guid: 19cb3a6c705669f44aca90948c4c99c7,
+    type: 3}
+  doksandort: {fileID: 1320060795862429962, guid: 435f75150d7c2a947a0429c90090594e,
+    type: 3}
+  doksanbes: {fileID: 7299868048611369805, guid: 86e69a27a1f894b4ab27cadb9af3bcd0,
+    type: 3}
+  doksanalti: {fileID: 4280193648648778123, guid: c20946f8098c9654caecbffe6ab71212,
+    type: 3}
+  doksanyedi: {fileID: 2324481219457990764, guid: d2b0b19721083264498cbc8401c60570,
+    type: 3}
+  doksansekiz: {fileID: 2283171950336545798, guid: 43d4217a2b46bbc4f85ee769afafaf33,
+    type: 3}
+  doksandokuz: {fileID: 1620261931576441025, guid: b05f598933dc2c946ba1347f04c23144,
+    type: 3}
