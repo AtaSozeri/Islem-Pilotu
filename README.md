@@ -1,1 +1,1 @@
-"# İşlem Pilotu, Ata Tevfik Sözeri" 
+# İşlem Pilotu, Ata Tevfik Sözeri
